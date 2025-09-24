@@ -22,7 +22,7 @@ app = Flask(__name__)
 bot = telebot.TeleBot(TOKEN)
 
 # قنوات الاشتراك الإجباري
-REQUIRED_CHANNELS = ['@crazys7', '@AWU87']
+REQUIRED_CHANNELS = ['@GRABOT7', '@iIl337']
 
 # ذاكرة مؤقتة لتخزين نتائج البحث لكل مستخدم
 user_data = {}
